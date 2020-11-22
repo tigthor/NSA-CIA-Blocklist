@@ -1,0 +1,25 @@
+Project ToDo
+------------
+
+- [x] Add compromised VPN providers
+- [ ] Fix Readme.md, typos, grammar,... (mid-prio)
+  - [x] Sort hosts entries alphabetically (low-prio)
+  - [ ] Add an optional an separate hosts file for MS, Apple, Google (low-prio)
+  - [ ] Monthly updates based on current leaks?
+- [x] Find invalid entries or domains that aren't online anymore (high-prio)
+- [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues) (high-prio)
+  - [ ] Add explanation how to identify compromised domains/DNS or other bogus addresses (high-prio)
+	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
+	- [x] Add IPv6 only hosts file (low-prio)
+	- [x] Add mirror(s) in case some papers/news are linked directly on blocked government pages (low-prio)
+- [x] Provide external file for sources, reference and researches
+- [x] Create an external References.txt for all necessary spying information so people can directly link into it
+- [ ] Sort documents, release full documentation and collections under Release 
+	- [ ] Explain how to handle leaks/releases, cause saying 'use VPN' isn't enough.
+	- [ ] Add Apple decrypt assist documents as archive (over 100+ docs) seems the gov has huge interest to force apple to decrypt their phones 
+	- [ ] Add Microsoft Vs. NSA/CIA documents (over 100+ docs) as archive (still ongoing?)
+	- [ ] Add Google Vs. NSA documents (over 600+ docs) as archive (not anytime soon since this is ongoing
+- [ ] Sort and upload rest of 2+ Mio files. Not anytime soon, for sure. 
+- [ ] Separate open/closed/won/lost ones in Campaigns against surveillance.md
+	- [ ] More information, maybe short description + Better intro 
+- [ ] Add latest HOSTS (high-prio)
