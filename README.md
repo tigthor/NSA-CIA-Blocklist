@@ -1,12 +1,6 @@
-NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015 - 2020 by [CHEF-KOCH](https://github.com/CHEF-KOCH) && [Tigthor](https://github.com/tigthor)
 
-<p align="center">
-  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
-</p>
 
-[![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
-![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=social)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 Description
 ------------
